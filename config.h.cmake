@@ -20,5 +20,7 @@
 *
 *******************************************************************************/
 
-#cmakedefine MSPLUGINS_DIR "${MSPLUGINS_DIR}"
+#cmakedefine APPLICATION_NAME "${APPLICATION_NAME}"
 #cmakedefine ENABLE_UPDATE_CHECK 1
+#cmakedefine EXECUTABLE_NAME "${EXECUTABLE_NAME}"
+#cmakedefine MSPLUGINS_DIR "${MSPLUGINS_DIR}"
